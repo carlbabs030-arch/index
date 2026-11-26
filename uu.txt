@@ -1,0 +1,1 @@
+generate a pwm on PA6 and output compare on chanel 1 and 2 using pb1 and pa5
